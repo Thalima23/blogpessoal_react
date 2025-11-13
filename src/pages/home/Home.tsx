@@ -43,7 +43,7 @@ function Home() {
                     className="flex justify-center"
                 >
                     <img
-                        src="https://i.imgur.com/fyfri1v.png"
+                        src="https://ik.imagekit.io/Thalima23/Copilot_20251113_114541.png?updatedAt=1763045157600"
                         alt="Imagem da Página home"
                         className="w-2/3"
                     />
