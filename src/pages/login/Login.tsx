@@ -83,7 +83,7 @@ function Login() {
                 <span>Entrar</span>
             }
 
-            <span>Entrar</span>
+            
           </button>
 
           <hr className="border-purple-600 w-full" />
